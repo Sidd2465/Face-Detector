@@ -1,7 +1,4 @@
  Directory Structure:
-pgsql
-Copy
-Edit
 face_detection_webapp/
 │
 ├── app.py
