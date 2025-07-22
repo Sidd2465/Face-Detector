@@ -1,0 +1,10 @@
+ Directory Structure:
+pgsql
+Copy
+Edit
+face_detection_webapp/
+│
+├── app.py
+├── detect_faces.py
+├── haarcascade_frontalface_default.xml
+├── requirements.txt
